@@ -21,7 +21,7 @@ if 'current_draft_id' not in st.session_state:
 # Content streams configuration
 CONTENT_STREAMS = {
     "personal": {
-        "name": "Personal Brand",
+        "name": "Deva Temple",
         "color": "#1f77b4",
         "description": "Your personal voice and expertise"
     },
